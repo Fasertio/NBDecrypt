@@ -1,6 +1,7 @@
 # NBDecrypt
 NetBackup password decryptor
-Based on [nbutools]([https://duckduckgo.com](https://github.com/airbus-seclab/nbutools/tree/main))
+
+Based on [nbutools]([https://duckduckgo.com](https://github.com/airbus-seclab/nbutools/tree/main)
 
 ## Usage
 
